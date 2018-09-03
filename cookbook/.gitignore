@@ -314,3 +314,4 @@ pip-selfcheck.json
 
 
 # End of https://www.gitignore.io/api/git,django,python,pycharm,virtualenv,pycharm+iml,pycharm+all
+CookBook/cookbook/keys.py
